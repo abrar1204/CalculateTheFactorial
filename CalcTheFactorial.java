@@ -1,5 +1,5 @@
 
-public class Factorial2 
+public class CalcTheFactorial
   
 {
   public static void main(String[] args)
